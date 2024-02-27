@@ -1,4 +1,2 @@
 # DataStructures
-Repository created to show concepts about data structure
-
-Testeee
+Repository created to show concepts about data structure.
