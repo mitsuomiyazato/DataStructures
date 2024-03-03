@@ -29,7 +29,8 @@ int main()
     erro = inicializar(&desc);
 
     do
-    {
+    {A,SOSKMAMK,SKAPLM,S´L,
+    DLS
 
         printf("\nLista Encadeada Simples:\n\n");
         printf("0 - SAIR\n");
